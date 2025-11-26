@@ -5,7 +5,7 @@
         "description": "ضد آب - سه لایه - پشت پیشبند ضربدری بسته میشه",
         "price": 950000,
         "category": "pishband",
-        "image": "./productImages/eu1.webp"
+        "image": "/main/productImages/eu1.webp"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "description": "ضد آب - سه لایه - پشت پیشبند ضربدری بسته میشه - پاپیون قابل حذف",
         "price": 980000,
         "category": "pishband",
-        "image": "./productImages/eu2.webp"
+        "image": "/main/productImages/eu2.webp"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "description": "ضد آب - سه لایه - تک جیب",
         "price": 670000,
         "category": "pishband",
-        "image": "./productImages/yeksarejibdar.webp"
+        "image": "/main/productImages/yeksarejibdar.webp"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "description": "ضد آب - سه لایه - دو جیب - بند گردن قابل تنظیم",
         "price": 710000,
         "category": "pishband",
-        "image": "./productImages/sport.webp"
+        "image": "/main/productImages/sport.webp"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "description": "ضد آب - سه لایه - حوله از پیشبند جدا میشه",
         "price": 880000,
         "category": "pishband",
-        "image": "./productImages/damanchinbahole.webp"
+        "image": "/main/productImages/damanchinbahole.webp"
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "description": "این پیشبند فقط بالا تنه ضد آب داره",
         "price": 990000,
         "category": "pishband",
-        "image": "./productImages/kalosh.webp"
+        "image": "/main/productImages/kalosh.webp"
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "description": "ضد آب - سه لایه - پاپیون قابل حذف",
         "price": 900000,
         "category": "pishband",
-        "image": "./productImages/damanchin-2damane.webp"
+        "image": "/main/productImages/damanchin-2damane.webp"
     },
     {
         "id": 8,
@@ -61,7 +61,7 @@
         "description": "ضد آب - سه لایه",
         "price": 830000,
         "category": "pishband",
-        "image": "./productImages/damanchin.webp"
+        "image": "/main/productImages/damanchin.webp"
     },
     {
         "id": 9,
@@ -69,7 +69,7 @@
         "description": "مقاوم در برابر حرارت",
         "price": 530000,
         "category": "dastgire",
-        "image": "./productImages/dastkeshferboland.webp",
+        "image": "/main/productImages/dastkeshferboland.webp",
         "isPair": true
     },
     {
@@ -78,7 +78,7 @@
         "description": "مقاوم در برابر حرارت",
         "price": 490000,
         "category": "dastgire",
-        "image": "./productImages/dastkeshfersizestandard.webp",
+        "image": "/main/productImages/dastkeshfersizestandard.webp",
         "isPair": true
     },
     {
@@ -87,7 +87,7 @@
         "description": "چهار لایه - جیب دار - مقاوم در برابر حرارت",
         "price": 450000,
         "category": "dastgire",
-        "image": "./productImages/parvane.webp",
+        "image": "/main/productImages/parvane.webp",
         "isPair": true
     },
     {
@@ -96,7 +96,7 @@
         "description": "چهار لایه - مقاوم در برابر حرارت",
         "price": 420000,
         "category": "dastgire",
-        "image": "./productImages/sib.webp",
+        "image": "/main/productImages/sib.webp",
         "isPair": true
     },
     {
@@ -105,7 +105,7 @@
         "description": "چهار لایه - مقاوم در برابر حرارت",
         "price": 420000,
         "category": "dastgire",
-        "image": "./productImages/morabasade.webp",
+        "image": "/main/productImages/morabasade.webp",
         "isPair": true
     },
     {
@@ -114,7 +114,7 @@
         "description": "چهار لایه - جیب دار - مقاوم در برابر حرارت",
         "price": 450000,
         "category": "dastgire",
-        "image": "./productImages/morabajibdar.webp",
+        "image": "/main/productImages/morabajibdar.webp",
         "isPair": true
     },
     {
@@ -123,7 +123,7 @@
         "description": "چهار لایه - جیب دار - مقاوم در برابر حرارت",
         "price": 450000,
         "category": "dastgire",
-        "image": "./productImages/mostatiljibdar.webp",
+        "image": "/main/productImages/mostatiljibdar.webp",
         "isPair": true
     },
     {
@@ -132,7 +132,7 @@
         "description": "چهار لایه - جیب دار - مقاوم در برابر حرارت",
         "price": 450000,
         "category": "dastgire",
-        "image": "./productImages/qalbi.webp",
+        "image": "/main/productImages/qalbi.webp",
         "isPair": true
     },
     {
@@ -141,7 +141,7 @@
         "description": "چهار لایه - جیب دار - مقاوم در برابر حرارت",
         "price": 450000,
         "category": "dastgire",
-        "image": "./productImages/cupcake.webp",
+        "image": "/main/productImages/cupcake.webp",
         "isPair": true
     },
     {
@@ -150,7 +150,7 @@
         "description": "چهار لایه -مقاوم در برابر حرارت",
         "price": 420000,
         "category": "dastgire",
-        "image": "./productImages/moraba4gosh.webp",
+        "image": "/main/productImages/moraba4gosh.webp",
         "isPair": true
     },
     {
@@ -159,7 +159,7 @@
         "description": "چهار لایه - مقاوم در برابر حرارت",
         "price": 420000,
         "category": "dastgire",
-        "image": "./productImages/gol.webp",
+        "image": "/main/productImages/gol.webp",
         "isPair": true
     },
     {
@@ -168,7 +168,7 @@
         "description": "چهار لایه - جیب دار - مقاوم در برابر حرارت",
         "price": 450000,
         "category": "dastgire",
-        "image": "./productImages/dayerejibdar.webp",
+        "image": "/main/productImages/dayerejibdar.webp",
         "isPair": true
     },
     {
@@ -177,7 +177,7 @@
         "description": "مناسب برای دسته قابلمه - مقاوم در برابر حرارت",
         "price": 290000,
         "category": "dastgire",
-        "image": "./productImages/chodanihelal.webp",
+        "image": "/main/productImages/chodanihelal.webp",
         "isPair": true
     },
     {
@@ -186,7 +186,7 @@
         "description": "مناسب برای دسته قابلمه - مقاوم در برابر حرارت",
         "price": 290000,
         "category": "dastgire",
-        "image": "./productImages/chodanimakhorti.webp",
+        "image": "/main/productImages/chodanimakhorti.webp",
         "isPair": true
     },
     {
@@ -195,7 +195,7 @@
         "description": "قیمت برای هر عدد",
         "price": 210000,
         "category": "dastgire",
-        "image": "./productImages/yakhchal.webp",
+        "image": "/main/productImages/yakhchal.webp",
         "isPair": false
     },
     {
@@ -204,7 +204,7 @@
         "description": "چهار لایه - دایره ساده - سه سایز",
         "price": 650000,
         "category": "damkoni",
-        "image": "./productImages/damkonisade.webp"
+        "image": "/main/productImages/damkonisade.webp"
     },
     {
         "id": 28,
@@ -212,7 +212,7 @@
         "description": "چهار لایه - سه سایز - جیب دار",
         "price": 720000,
         "category": "damkoni",
-        "image": "./productImages/cheshmi.webp"
+        "image": "/main/productImages/cheshmi.webp"
     },
     {
         "id": 29,
@@ -220,7 +220,7 @@
         "description": "بدون پشم شیشه - قیمت برای یک عدد - سایز بزرگ - کش قابل تنظیم",
         "price": 450000,
         "category": "damkoni",
-        "image": "./productImages/freesizedoro.webp"
+        "image": "/main/productImages/freesizedoro.webp"
     },
     {
         "id": 30,
@@ -228,7 +228,7 @@
         "description": "بدون پشم شیشه - سه سایز - کش قابل تنظیم",
         "price": 850000,
         "category": "damkoni",
-        "image": "./productImages/dorokeshdar.webp"
+        "image": "/main/productImages/dorokeshdar.webp"
     },
     {
         "id": 31,
@@ -236,7 +236,7 @@
         "description": "چهار لایه - جیب دار - سه سایز",
         "price": 720000,
         "category": "damkoni",
-        "image": "./productImages/yektarafe.webp"
+        "image": "/main/productImages/yektarafe.webp"
     },
     {
         "id": 32,
@@ -244,7 +244,7 @@
         "description": "چهار لایه - جیب دار - سه سایز",
         "price": 750000,
         "category": "damkoni",
-        "image": "./productImages/dotarafe.webp"
+        "image": "/main/productImages/dotarafe.webp"
     },
     {
         "id": 33,
@@ -252,7 +252,7 @@
         "description": "چهار لایه - سه سایز",
         "price": 770000,
         "category": "damkoni",
-        "image": "./productImages/keshdarsade.webp"
+        "image": "/main/productImages/keshdarsade.webp"
     },
     {
         "id": 34,
@@ -260,7 +260,7 @@
         "description": "چهار لایه - جیب دار - سه سایز",
         "price": 720000,
         "category": "damkoni",
-        "image": "./productImages/mah.webp"
+        "image": "/main/productImages/mah.webp"
     },
     {
         "id": 36,
@@ -268,7 +268,7 @@
         "description": "سه لایه مشما دار",
         "price": 390000,
         "category": "kise",
-        "image": "./productImages/kisesabzi.webp"
+        "image": "/main/productImages/kisesabzi.webp"
     },
     {
         "id": 37,
@@ -276,7 +276,7 @@
         "description": "سه لایه مشما دار",
         "price": 480000,
         "category": "kise",
-        "image": "./productImages/kisedastedar.webp"
+        "image": "/main/productImages/kisedastedar.webp"
     },
     {
         "id": 38,
@@ -284,7 +284,7 @@
         "description": "سه لایه - دو لایه پارچه - یک لایه طلق پلاستیکی",
         "price": 590000,
         "category": "kise",
-        "image": "./productImages/sofresabzi.webp"
+        "image": "/main/productImages/sofresabzi.webp"
     },
     {
         "id": 39,
@@ -292,7 +292,7 @@
         "description": "دو لایه پارچه",
         "price": 550000,
         "category": "kise",
-        "image": "./productImages/sofrenan.webp"
+        "image": "/main/productImages/sofrenan.webp"
     },
     {
         "id": 40,
@@ -300,7 +300,7 @@
         "description": "چهار لایه",
         "price": 490000,
         "category": "kise",
-        "image": "./productImages/kisenanyakhchal.webp"
+        "image": "/main/productImages/kisenanyakhchal.webp"
     },
     {
         "id": 41,
@@ -308,7 +308,7 @@
         "description": "",
         "price": 320000,
         "category": "hole",
-        "image": "./productImages/holesade.webp"
+        "image": "/main/productImages/holesade.webp"
     },
     {
         "id": 42,
@@ -316,7 +316,7 @@
         "description": "حوله از نیم دایره جدا میشه",
         "price": 370000,
         "category": "hole",
-        "image": "./productImages/holenimdayere.webp"
+        "image": "/main/productImages/holenimdayere.webp"
     },
     {
         "id": 43,
@@ -324,7 +324,7 @@
         "description": "حوله از پیراهن جدا میشه - همراه با آویز چوبی",
         "price": 460000,
         "category": "hole",
-        "image": "./productImages/holepirahani.webp"
+        "image": "/main/productImages/holepirahani.webp"
     },
     {
         "id": 44,
@@ -332,7 +332,7 @@
         "description": "حوله از قلب جدا میشه",
         "price": 385000,
         "category": "hole",
-        "image": "./productImages/holeqalbi.webp"
+        "image": "/main/productImages/holeqalbi.webp"
     },
     {
         "id": 45,
@@ -340,7 +340,7 @@
         "description": "به دسته فر آویز میشه",
         "price": 420000,
         "category": "hole",
-        "image": "./productImages/holeavizfer.webp"
+        "image": "/main/productImages/holeavizfer.webp"
     },
     {
         "id": 46,
@@ -348,7 +348,7 @@
         "description": "",
         "price": 360000,
         "category": "hole",
-        "image": "./productImages/holepapioni.webp"
+        "image": "/main/productImages/holepapioni.webp"
     },
     {
         "id": 47,
@@ -356,7 +356,7 @@
         "description": "سایز سفره: 90x90",
         "price": 890000,
         "category": "cover",
-        "image": "./productImages/coverqablemesofredar.webp"
+        "image": "/main/productImages/coverqablemesofredar.webp"
     },
     {
         "id": 48,
@@ -364,7 +364,7 @@
         "description": "ظرفیت کاور: دو قابلمه",
         "price": 750000,
         "category": "cover",
-        "image": "./productImages/coverqablemedotabaqe.webp"
+        "image": "/main/productImages/coverqablemedotabaqe.webp"
     },
     {
         "id": 49,
@@ -372,7 +372,7 @@
         "description": "سه لایه",
         "price": 650000,
         "category": "cover",
-        "image": "./productImages/coverqablemedayerei.webp"
+        "image": "/main/productImages/coverqablemedayerei.webp"
     },
     {
         "id": 50,
@@ -380,7 +380,7 @@
         "description": "سه لایه",
         "price": 770000,
         "category": "cover",
-        "image": "./productImages/coverqablemefreesize.webp"
+        "image": "/main/productImages/coverqablemefreesize.webp"
     },
     {
         "id": 51,
@@ -388,7 +388,7 @@
         "description": "سه لایه - دو جیب",
         "price": 450000,
         "category": "cover",
-        "image": "./productImages/coverqori.webp"
+        "image": "/main/productImages/coverqori.webp"
     },
     {
         "id": 52,
@@ -396,7 +396,7 @@
         "description": "سه لایه - ایستایی فوق العاده",
         "price": 880000,
         "category": "cover",
-        "image": "./productImages/coveroto.webp"
+        "image": "/main/productImages/coveroto.webp"
     },
     {
         "id": 53,
@@ -404,7 +404,7 @@
         "description": "دو رو - کش دار - کش قابل تنظیم - با توجه به اندازه میز اتوی شما دوخت میشه",
         "price": 550000,
         "category": "cover",
-        "image": "./productImages/coverotomizdoro.webp"
+        "image": "/main/productImages/coverotomizdoro.webp"
     },
     {
         "id": 54,
@@ -412,7 +412,7 @@
         "description": "سه لایه - دو جیب",
         "price": 320000,
         "category": "cover",
-        "image": "./productImages/coverqeychi.webp"
+        "image": "/main/productImages/coverqeychi.webp"
     },
     {
         "id": 55,
@@ -420,7 +420,7 @@
         "description": "وسط دکمه آهن ربا داره",
         "price": 190000,
         "category": "jasozani",
-        "image": "./productImages/jasozanigolmagnet.webp"
+        "image": "/main/productImages/jasozanigolmagnet.webp"
     },
     {
         "id": 56,
@@ -428,7 +428,7 @@
         "description": "وسط دکمه آهن ربا داره - پایه چوبی (جلوگیری از عبور سوزن)",
         "price": 270000,
         "category": "jasozani",
-        "image": "./productImages/jasozanichobimagnet.webp"
+        "image": "/main/productImages/jasozanichobimagnet.webp"
     },
     {
         "id": 57,
@@ -436,7 +436,7 @@
         "description": "",
         "price": 160000,
         "category": "jasozani",
-        "image": "./productImages/jasozanigol.webp"
+        "image": "/main/productImages/jasozanigol.webp"
     },
     {
         "id": 58,
@@ -444,7 +444,7 @@
         "description": "به صورت مگنت دار و ساده قابل سفارش",
         "price": 380000,
         "category": "jasozani",
-        "image": "./productImages/jasozanikifdar.webp"
+        "image": "/main/productImages/jasozanikifdar.webp"
     },
     {
         "id": 59,
@@ -452,7 +452,7 @@
         "description": "دارای جاسوزنی روی درب باکس",
         "price": 550000,
         "category": "box",
-        "image": "./productImages/boxkhayati.webp"
+        "image": "/main/productImages/boxkhayati.webp"
     },
     {
         "id": 60,
@@ -460,7 +460,7 @@
         "description": "سه لایه",
         "price": 470000,
         "category": "box",
-        "image": "./productImages/boxnan.webp"
+        "image": "/main/productImages/boxnan.webp"
     },
     {
         "id": 61,
@@ -468,7 +468,7 @@
         "description": "سه لایه",
         "price": 320000,
         "category": "zirqablemei",
-        "image": "./productImages/zirqablemeisade.webp"
+        "image": "/main/productImages/zirqablemeisade.webp"
     },
     {
         "id": 62,
@@ -476,7 +476,7 @@
         "description": "سه لایه",
         "price": 370000,
         "category": "zirqablemei",
-        "image": "./productImages/zirqablemegol2.webp"
+        "image": "/main/productImages/zirqablemegol2.webp"
     },
     {
         "id": 63,
@@ -484,7 +484,7 @@
         "description": "سه لایه",
         "price": 370000,
         "category": "zirqablemei",
-        "image": "./productImages/zirqablemeqalbi.webp"
+        "image": "/main/productImages/zirqablemeqalbi.webp"
     },
     {
         "id": 64,
@@ -492,21 +492,21 @@
         "description": "سه لایه",
         "price": 350000,
         "category": "zirqablemei",
-        "image": "./productImages/zirqablemegol1.webp"
+        "image": "/main/productImages/zirqablemegol1.webp"
     },
     {
         "id": 65,
         "title": "نمگیر بند گره ای",
         "description": "چهار لایه - مشما دار | سایز 70x50 قیمت: 530,000 تومان | سایز بزرگ : 90*60 قیمت: 610,000 تومان",
         "category": "namgir",
-        "image": "./productImages/namgirbandgerei.webp"
+        "image": "/main/productImages/namgirbandgerei.webp"
     },
     {
         "id": 66,
         "title": "نمگیر بند دکمه دار",
         "description": "چهار لایه - مشما دار | سایز 70x50 قیمت: 550,000 تومان | سایز بزرگ : 90*60 قیمت: 630,000 تومان",
         "category": "namgir",
-        "image": "./productImages/namgirbanddokmedar.webp"
+        "image": "/main/productImages/namgirbanddokmedar.webp"
     },
     {
         "id": 67,
@@ -514,7 +514,7 @@
         "description": "شش جیب - سه لایه - به آویز لباس وصل میشه",
         "price": 700000,
         "category": "accessory",
-        "image": "./productImages/jajorabi.webp"
+        "image": "/main/productImages/jajorabi.webp"
     },
     {
         "id": 68,
@@ -522,7 +522,7 @@
         "description": "جیب دار - محکم و مقاوم",
         "price": 650000,
         "category": "accessory",
-        "image": "./productImages/jasikh.webp"
+        "image": "/main/productImages/jasikh.webp"
     },
     {
         "id": 69,
@@ -530,7 +530,7 @@
         "description": "چهار لایه - مشما دار",
         "price": 350000,
         "category": "accessory",
-        "image": "./productImages/zirqori.webp"
+        "image": "/main/productImages/zirqori.webp"
     },
     {
         "id": 70,
@@ -538,7 +538,7 @@
         "description": "چهار لایه - جای قاشق چنگال داره - مشما دار",
         "price": 750000,
         "category": "accessory",
-        "image": "./productImages/zirboshqabi.webp",
+        "image": "/main/productImages/zirboshqabi.webp",
         "isPair": true
     },
     {
@@ -547,7 +547,7 @@
         "description": "قیمت برای هر عدد",
         "price": 100000,
         "category": "accessory",
-        "image": "./productImages/darposhmorabadoro.webp"
+        "image": "/main/productImages/darposhmorabadoro.webp"
     },
     {
         "id": 72,
@@ -555,7 +555,7 @@
         "description": "قیمت برای هر عدد",
         "price": 70000,
         "category": "accessory",
-        "image": "./productImages/coverpichakgaz.webp"
+        "image": "/main/productImages/coverpichakgaz.webp"
     },
     {
         "id": 73,
@@ -563,7 +563,7 @@
         "description": "جنس: پیکه ترکیه - جذب آب فوق العاده",
         "price": 250000,
         "category": "accessory",
-        "image": "./productImages/dastmal.webp"
+        "image": "/main/productImages/dastmal.webp"
     },
     {
         "id": 74,
@@ -571,7 +571,7 @@
         "description": "سه لایه - پشت کار حوله دوخت شده",
         "price": 260000,
         "category": "accessory",
-        "image": "./productImages/sofrepakkon1.webp"
+        "image": "/main/productImages/sofrepakkon1.webp"
     },
     {
         "id": 75,
@@ -579,7 +579,7 @@
         "description": "سه لایه - پشت کار حوله دوخت شده - جیب دار",
         "price": 290000,
         "category": "accessory",
-        "image": "./productImages/sofrepakkonjibdar.webp"
+        "image": "/main/productImages/sofrepakkonjibdar.webp"
     },
     {
         "id": 76,
@@ -587,14 +587,14 @@
         "description": "سه لایه - پشت کار حوله دوخت شده",
         "price": 260000,
         "category": "accessory",
-        "image": "./productImages/sofrepakkon2.webp"
+        "image": "/main/productImages/sofrepakkon2.webp"
     },
     {
         "id": 77,
         "title": "مدل تزیین سرویس",
         "description": "دکمه: رایگان\nبند چرمی: 10% به مبلغ کل سرویس اضافه میشه\nتور دوزی: 8% به مبلغ کل سرویس اضافه میشه\nچین پرک: 15% به مبلغ کل سرویس اضافه میشه\nگل پارچه ای: 15% به مبلغ کل سرویس اضافه میشه\nبرگ: 8% به مبلغ کل سرویس اضافه میشه\nگل دوزی: 20% به مبلغ کل سرویس اضافه میشه\nپاپیون: 10% به مبلغ کل سرویس اضافه میشه",
         "category": "taziin",
-        "image": "./productImages/taziin.webp"
+        "image": "/main/productImages/taziin.webp"
     },
     {
         "id": 78,
@@ -602,7 +602,7 @@
         "description": "دو رو - پشت کش ",
         "price": 420000,
         "category": "sarposh",
-        "image": "./productImages/kolahashpazi.webp"
+        "image": "/main/productImages/kolahashpazi.webp"
     },
     {
         "id": 79,
@@ -610,7 +610,7 @@
         "description": "پشت کش",
         "price": 290000,
         "category": "sarposh",
-        "image": "./productImages/telpapioni.webp"
+        "image": "/main/productImages/telpapioni.webp"
     },
     {
         "id": 80,
@@ -618,7 +618,7 @@
         "description": "تزئینات اسکارف قابل تغییر",
         "price": 450000,
         "category": "sarposh",
-        "image": "./productImages/scarfsade.webp"
+        "image": "/main/productImages/scarfsade.webp"
     },
     {
         "id": 81,
@@ -626,6 +626,6 @@
         "description": "تل محکم و نشکن - تزئینات اسکارف قابل تغییر",
         "price": 430000,
         "category": "sarposh",
-        "image": "./productImages/telscarf.webp"
+        "image": "/main/productImages/telscarf.webp"
     }
 ]
