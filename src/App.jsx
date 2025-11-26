@@ -4,7 +4,7 @@ import './App.css'
 import Navbar from './components/Navbar'
 import ProductCard from './components/ProductCard'
 import Categories from './components/Categories'
-import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
 import ProductPage from './components/ProductPage'
 import Footer from './components/Footer'
 import ScrollToTop from './ScrollToTop'
