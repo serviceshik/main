@@ -38,7 +38,7 @@ const Navbar = () => {
           <h1>سرویس شیک</h1>
         </div>
 
-        <ul className="nav-links ">
+        <ul className="nav-links">
           {navItems.map((item, index) => (
             <li className="highlight-transparent" key={index}>
 
