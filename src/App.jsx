@@ -19,7 +19,7 @@ function Home() {
         <p className='unselectable'>به سرویس شیک خوش آمدید</p>
         <button onClick={() => navigate('/categories')}>مشاهده قیمت ها</button>
         <a target='_blank' href="https://www.instagram.com/service_shik/">
-          <img src='/serviceshiklogo.webp' alt="logo" />
+          <img src='./serviceshiklogo.webp' alt="logo" />
         </a>
       </div>
     </section>
