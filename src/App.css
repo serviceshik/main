@@ -1,0 +1,158 @@
+@font-face {
+    font-family: 'Dana';
+    src: url(./assets/fonts/DANA_MEDIUM.TTF);
+}
+
+.Dana {
+    font-family: 'Dana', sans-serif;
+}
+
+main {
+    flex: 1;
+}
+
+.unselectable {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+/* ---------- Section ---------- */
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    min-height: calc(100vh - 70px);
+    padding: 20px;
+    text-align: center;
+    overflow: hidden;
+    font-family: 'Dana', sans-serif;
+}
+
+section>div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+section h1 {
+    font-size: 6rem;
+    color: #ff5c5c;
+    margin: 0;
+    animation: fadeSlideUp 1s ease forwards;
+    animation-delay: 0.2s;
+    opacity: 0;
+    text-shadow: 2px 2px 8px rgba(255, 92, 92, 0.3);
+}
+
+section p {
+    font-size: 1.3rem;
+    color: #2c2c2c;
+    margin: 0;
+    line-height: 1.6;
+    max-width: 600px;
+    animation: fadeSlideUp 1s ease forwards;
+    animation-delay: 0.5s;
+    opacity: 0;
+}
+
+section button {
+    padding: 14px 35px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+    background: linear-gradient(90deg, #ff5c5c, #ff7b7b);
+    border: none;
+    border-radius: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    animation: fadeSlideUp 1s ease forwards;
+    animation-delay: 0.8s;
+    opacity: 0;
+    box-shadow: 0 5px 15px rgba(255, 92, 92, 0.4);
+}
+
+section button:hover {
+    transform: scale(1.08);
+    box-shadow: 0 8px 20px rgba(255, 92, 92, 0.6);
+}
+
+section img {
+    width: 180px;
+    border-radius: 50%;
+    border: 4px solid #4caf50;
+    box-shadow: 0 0 12px #4caf50, 0 0 25px rgba(76, 175, 80, 0.5);
+    animation: fadeSlideUp 1s ease forwards 0.2s, pulseGlow 2s infinite;
+    animation-delay: 1.1s;
+    opacity: 0;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+section img:hover {
+    transform: scale(1.07);
+    box-shadow: 0 0 18px #4caf50, 0 0 rgba(76, 175, 80, 0.6);
+}
+
+/* ---------- Keyframes ---------- */
+@keyframes fadeSlideUp {
+    0% {
+        opacity: 0;
+        transform: translateY(60px) scale(0.95);
+    }
+
+    80% {
+        transform: translateY(-10px) scale(1.02);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+@keyframes pulseGlow {
+    0% {
+        box-shadow: 0 0 12px #4caf50, 0 0 rgba(76, 175, 80, 0.5);
+        transform: scale(1);
+    }
+
+    50% {
+        box-shadow: 0 0 22px #4caf50, 0 0 rgba(76, 175, 80, 0.7);
+        transform: scale(1.05);
+    }
+
+    100% {
+        box-shadow: 0 0 12px #4caf50, 0 0 rgba(76, 175, 80, 0.5);
+        transform: scale(1);
+    }
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 600px) {
+    section h1 {
+        font-size: 4rem;
+        line-height: 1.2;
+    }
+
+    section p {
+        font-size: 1.3rem;
+        padding: 0 20px;
+    }
+
+    section button {
+        padding: 18px 40px;
+        font-size: 1rem;
+    }
+
+    section img {
+        width: 150px;
+    }
+
+    section>div {
+        gap: 25px;
+    }
+}

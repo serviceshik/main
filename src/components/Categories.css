@@ -1,0 +1,38 @@
+
+/* Cards */
+.cards {
+    padding-top: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+}
+
+.cards .product-card {
+    flex: 1 1 250px;
+    max-width: 280px;
+}
+
+@media (max-width: 900px) {
+    .cards {
+        justify-content: center;
+    }
+
+    .cards .product-card {
+        flex: 1 1 45%;
+    }
+}
+
+@media (max-width: 600px) {
+    .cards {
+        justify-content: center;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .cards .product-card {
+        flex: 1 1 45%;
+        max-width: 45%;
+    }
+}
