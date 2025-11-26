@@ -27,7 +27,7 @@ function Home() {
 }
 function App() {
   return (
-    <Router basename="/main">
+    <Router>
       <Navbar />
       <main>
         <ScrollToTop />
