@@ -23,10 +23,7 @@ const ProductInformationCard = ({ title, image, description, price, isPair }) =>
             </div>
             {showFullImage && (
                 <div className="fullscreen-overlay" onClick={() => setShowFullImage(false)}>
-                    <img
-                        src={image}
-                        className="fullscreen-image"
-                    />
+                    <img src={`/main/productImages/${image}`} />
                 </div>
             )}
         </>
