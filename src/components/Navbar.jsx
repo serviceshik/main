@@ -34,7 +34,7 @@ const Navbar = () => {
       <div className="nav-inner">
 
         <div className="logo highlight-transparent" onClick={handleLogoClick}>
-          <img src="/serviceshiklogo.webp" alt="ServiceShik Logo" />
+          <img src="/main/serviceshiklogo.webp" alt="ServiceShik Logo" />
           <h1>سرویس شیک</h1>
         </div>
 
