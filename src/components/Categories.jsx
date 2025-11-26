@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './categories.css'
+import './Categories.css'
 import ProductCard from './ProductCard'
 
 const Categories = () => {
