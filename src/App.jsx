@@ -16,7 +16,7 @@ function Home() {
     <section>
       <h1 className='unselectable'>سرویس شیک</h1>
       <div>
-        <p className='unselectable'>به سرویس شسیشیشسیشسییک خوش آمدید</p>
+        <p className='unselectable'>به سرویس شیک خوش آمدید</p>
         <button onClick={() => navigate('/categories')}>دیدن قیمت ها</button>
         <a target='_blank' href="https://www.instagram.com/service_shik/">
           <img src='/serviceshiklogo.webp' alt="logo" />
