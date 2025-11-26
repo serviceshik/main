@@ -4,7 +4,6 @@ import "./ProductInformationCard.css";
 const ProductInformationCard = ({ title, image, description, price, isPair }) => {
     const [showFullImage, setShowFullImage] = useState(false);
 
-    const imageSrc = `/main/productImages/${image}`;
 
     return (
         <>
@@ -12,7 +11,7 @@ const ProductInformationCard = ({ title, image, description, price, isPair }) =>
                 <h2>{title}</h2>
                 <div className="product-image-box">
                     <img
-                        src={imageSrc}
+                        src={image}
                         className='product-image'
                         onClick={() => setShowFullImage(true)}
                         alt={title}
@@ -31,7 +30,7 @@ const ProductInformationCard = ({ title, image, description, price, isPair }) =>
             {showFullImage && (
                 <div className="fullscreen-overlay" onClick={() => setShowFullImage(false)}>
                     <img
-                        src={imageSrc}
+                        src={image}
                         className="fullscreen-image"
                         alt={title}
                     />
