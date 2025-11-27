@@ -74,6 +74,9 @@ footer span {
     color: #b42e27;
     font-size: 1.1rem;
 }
+.contactus svg {
+    vertical-align: middle;
+}
 
 
 .copyright {
@@ -90,13 +93,34 @@ footer span {
         gap: 12px;
     }
 
-    .contactus {
-        justify-content: center;
-        flex-wrap: wrap;
+    .footer-content {
+        flex-direction: column;
+        gap: 18px;
     }
 
+
+    .contactus {
+        flex-direction: row;
+        justify-content: center;
+        gap: 14px;
+        padding-top: 4px;
+    }
+
+
+    .contactus a {
+        font-size: 1rem;
+    }
+
+    .contactus a span {
+        font-size: 1.15rem;
+    }
+
+ 
     .copyright {
-        display: block;
-        gap: 6px;
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        gap: 8px;
+        font-size: 0.9rem;
     }
 }
