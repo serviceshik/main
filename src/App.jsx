@@ -14,13 +14,13 @@ function Home() {
 
   return (
     <section>
-      <h1 className='unselectable'>سرویس شیک</h1>
-      <div>
-        <p className='unselectable'>به سرویس شیک خوش آمدید</p>
-        <button onClick={() => navigate('/categories')}>دیدن قیمت ها</button>
-        <a target='_blank' href="https://www.instagram.com/service_shik/">
+         <a target='_blank' href="https://www.instagram.com/service_shik/">
           <img src='/serviceshiklogo.webp' alt="logo" />
         </a>
+      <h1 className='unselectable'>سرویس شیک</h1>
+      <div>
+        <p className='unselectable'>تولید کننده انواع سرویس آشپزخانه و جهیزیه عروس</p>
+        <button onClick={() => navigate('/categories')}>مشاهده قیمت ها</button>
       </div>
     </section>
   )
