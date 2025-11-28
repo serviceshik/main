@@ -69,11 +69,12 @@ footer span {
 }
 
 .contactus a span {
-
     font-weight: 600;
     color: #b42e27;
     font-size: 1.1rem;
+    margin-right: 5px;
 }
+
 .contactus svg {
     vertical-align: middle;
 }
@@ -115,7 +116,7 @@ footer span {
         font-size: 1.15rem;
     }
 
- 
+
     .copyright {
         display: flex;
         justify-content: center;
