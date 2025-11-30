@@ -12,8 +12,12 @@ const ProductInformationCard = ({ title, image, description, price, isPair }) =>
                 <div className="product-image-box">
                     <img
                         src={image}
-                        className='product-image'
+                        className='product-image no-select'
                         onClick={() => setShowFullImage(true)}
+                        draggable={false}
+                        onDragStart={(e) => e.preventDefault()}
+                        onContextMenu={(e) => e.preventDefault()}
+                        onMouseDown={(e) => e.preventDefault()}
                         alt={title}
                     />
                 </div>
@@ -31,7 +35,11 @@ const ProductInformationCard = ({ title, image, description, price, isPair }) =>
                 <div className="fullscreen-overlay" onClick={() => setShowFullImage(false)}>
                     <img
                         src={image}
-                        className="fullscreen-image"
+                        draggable={false}
+                        onDragStart={(e) => e.preventDefault()}
+                        onContextMenu={(e) => e.preventDefault()}
+                        onMouseDown={(e) => e.preventDefault()}
+                        className="fullscreen-image no-select"
                         alt={title}
                     />
                 </div>

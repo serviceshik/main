@@ -99,6 +99,15 @@
     text-align: right;
 }
 
+.no-select {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    touch-action: none;
+    /* optional */
+}
+
 /* Responsive */
 @media (max-width: 600px) {
     .product-information-container {
