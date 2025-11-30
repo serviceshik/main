@@ -17,7 +17,6 @@ const ProductInformationCard = ({ title, image, description, price, isPair }) =>
                         draggable={false}
                         onDragStart={(e) => e.preventDefault()}
                         onContextMenu={(e) => e.preventDefault()}
-                        onMouseDown={(e) => e.preventDefault()}
                         alt={title}
                     />
                 </div>
@@ -38,7 +37,6 @@ const ProductInformationCard = ({ title, image, description, price, isPair }) =>
                         draggable={false}
                         onDragStart={(e) => e.preventDefault()}
                         onContextMenu={(e) => e.preventDefault()}
-                        onMouseDown={(e) => e.preventDefault()}
                         className="fullscreen-image no-select"
                         alt={title}
                     />
