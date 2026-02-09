@@ -45,7 +45,7 @@ const Categories = () => {
         ,
         {
             id: 7,
-            name: "جاسوزنی / جاقیچی ",
+            name: "جاسوزنی",
             image: "./categoryImages/jasozani.webp",
             slug: "jasozani"
         },
